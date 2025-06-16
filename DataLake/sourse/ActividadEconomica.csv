@@ -56,6 +56,9 @@ Clase,Descripcion
 1012,Procesamiento y conservación de pescados- crustáceos y moluscos
 1020,Procesamiento y conservación de frutas- legumbres- hortalizas y tubérculos
 1030,Elaboración de aceites y grasas de origen vegetal y animal
+1031,Elaboración de productos de patata
+1032,Elaboración de jugos de frutas y hortalizas
+1033,Elaboración y conservación de frutas, legumbres y hortalizas
 1040,Elaboración de productos lácteos
 1051,Elaboración de productos de molinería
 1052,Elaboración de almidones y productos derivados del almidón
@@ -383,6 +386,7 @@ Clase,Descripcion
 7010,Actividades de administración empresarial
 7020,Actividades de consultaría de gestión
 7110,Actividades de arquitectura e ingeniería y otras actividades conexas de consultoría técnica
+7112,Actividades de ingeniería y otras actividades conexas de consultoría técnica
 7120,Ensayos y análisis técnicos
 7210,Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería
 7220,Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades
@@ -456,6 +460,7 @@ Clase,Descripcion
 8790,Otras actividades de atención en instituciones con alojamiento
 8810,Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas
 8890,Otras actividades de asistencia social sin alojamiento
+8899 — Otras actividades de asistencia social sin alojamiento n.c.p.
 9001,Creación literaria
 9002,Creación musical
 9003,Creación teatral
